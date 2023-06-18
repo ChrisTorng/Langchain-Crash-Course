@@ -1,2 +1,2 @@
 # Langchain-Crash-Course
-Redo of nicknochnack/Langchain-Crash-Course
+Redo of [nicknochnack/Langchain-Crash-Course](https://github.com/nicknochnack/Langchain-Crash-Course), by following YouTube [LangChain Crash Course: Build a AutoGPT app in 25 minutes!](https://www.youtube.com/watch?v=MlK6SIjcjE8).
