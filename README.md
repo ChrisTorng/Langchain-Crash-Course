@@ -8,4 +8,3 @@ Redo of [nicknochnack/Langchain-Crash-Course](https://github.com/nicknochnack/La
 * Instead, open Command Prompt with Administrator, run:
     * `pip install streamlit`
 * VS Code can run `streamlit run app.py`, open http://localhost:8501/
-*
